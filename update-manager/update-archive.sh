@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#zsa
+#zsasa
 # Umineko Project differential update archive generator
 # Encoding: UTF-8
 #
